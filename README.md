@@ -12,14 +12,6 @@ ask some questions of it, clean it up, build a small predictive model, and evalu
 - `scikit-learn` — PCA, train/test split, Logistic Regression, Random Forest, evaluation metrics
 - `openpyxl` — reading the `.xlsx` file with pandas
 
-## Files in this repository
-
-| File | Description |
-|---|---|
-| `first.ipynb` | The analysis: cleaning, EDA (including a PCA), a growth-prediction model, and a sample prediction. |
-| `P_Data_Extract_From_World_Development_Indicators.xlsx` | GDP per capita (nominal and PPP) for 8 countries, 2016-2025, from the World Bank. |
-| `README.md` | This file. |
-
 ## Summary of results
 
 1. **How has GDP per capita changed, and how is it distributed?** Right-skewed, with a clear gap
